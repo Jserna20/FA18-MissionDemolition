@@ -1,10 +1,10 @@
 fileFormatVersion: 2
 guid: 401e1a4724b464d06bf1222e7c9fb00f
-timeCreated: 1529022200
-licenseType: Free
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - cloudSphere: {fileID: 168758, guid: c4f6df6cc1b997041855573fda60628b, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
